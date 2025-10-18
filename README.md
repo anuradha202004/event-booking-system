@@ -3,6 +3,7 @@
 ## Overview
 This project is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to browse events, check seat availability, and book tickets in real time. The system prevents overbooking and handles multiple users, providing booking confirmations.
 
+
 ## Features
 - View upcoming events with seat availability
 - Book seats for an event
